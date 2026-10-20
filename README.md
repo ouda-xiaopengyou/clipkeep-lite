@@ -35,7 +35,7 @@ A lightweight clipboard history manager built with pure C++ and Win32 API. No de
 
 ```powershell
 # Clone repository
-git clone https://github.com/ouda-xiaopengyou/clipkeep-lite-cpp.git
+git clone https://github.com/ouda-xiaopengyou/clipkeep-lite.git
 cd clipkeep-lite
 
 # Create build directory
